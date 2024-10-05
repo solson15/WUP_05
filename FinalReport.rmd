@@ -78,3 +78,15 @@ drug or placebo they took that would tell them if the drug prevents aids.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+I graphed the results of a group that is only of female and the results showed us whether the drug they
+were given helped prevent aids. The bar graph then showed us that the female given the drug has a
+higher chance of getting aids that the female that were given a placebo. I then ran a numerical graph
+and the result showed me that the female that got aids were a higher 20% than the female that didn't
+get aids. I then also ran three statistical test that told me the probability of a female getting aids from
+the drug that was given in the test. From the results of all the test ran the drug actually help the female
+in the group get aids then if they were given a placebo without. We can conclude from this test that the
+drug did not work with females.
+ 
+
+
